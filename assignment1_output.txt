@@ -1,0 +1,248 @@
+Script started on 2026-06-05 10:14:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="124" LINES="49"]
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mexit[27mexit
+[?2004lexit
+
+Script done on 2026-06-05 10:14:23-04:00 [COMMAND_EXIT_CODE="0"]
+Jun  5 10:11 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mscript assignment1_output.txt[27mscript assignment1_output.txt
+[?2004lScript started, output log file is 'assignment1_output.txt'.
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mexit[27mexit
+[?2004lexit
+Script done.
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mls -lh assignment1_output.txt[27mls -lh assignment1_output.txt
+[?2004l-rw-rw-r-- 1 ssingh1488 ssingh1488 4.0K Jun  5 10:14 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mcat assignment1_output.txt[27mcat assignment1_output.txt
+[?2004lScript started on 2026-06-05 10:14:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="124" LINES="49"]
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mexit[27mexit
+[?2004lexit
+
+Script done on 2026-06-05 10:14:23-04:00 [COMMAND_EXIT_CODE="0"]
+Jun  5 10:11 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mscript assignment1_output.txt[27mscript assignment1_output.txt
+[?2004lScript started, output log file is 'assignment1_output.txt'.
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mls -lh assignment1_output.txt[27mls -lh assignment1_output.txt
+[?2004l-rw-rw-r-- 1 ssingh1488 ssingh1488 8.0K Jun  5 10:14 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mhead assignment1_output.txt[27mhead assignment1_output.txt
+[?2004lScript started on 2026-06-05 10:14:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="124" LINES="49"]
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mcat assignment1_output.txt[27mcat assignment1_output.txt
+[?2004lScript started on 2026-06-05 10:14:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="124" LINES="49"]
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mexit[27mexit
+[?2004lexit
+
+Script done on 2026-06-05 10:14:23-04:00 [COMMAND_EXIT_CODE="0"]
+Jun  5 10:11 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ ^C[?2004l[?2004h[?2004l
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mscript assignment1_output.txt[27mscript assignment1_output.txt
+[?2004lScript started, output log file is 'assignment1_output.txt'.
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mpython3 CheckA1.py -f -v TestAfter[27m
+[7mpython3 CheckA1.py -f -v TestLeap[27m
+[7mpython3 CheckA1.py -f -v TestMonMax[27m[A[A]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ python3 CheckA1.py -f -v TestAfter
+python3 CheckA1.py -f -v TestLeap
+python3 CheckA1.py -f -v TestMonMax
+[?2004ltest_dates (__main__.TestAfter.test_dates)
+after() will give next date ... ok
+test_dtypes (__main__.TestAfter.test_dtypes)
+after() is returning string ... ok
+test_leap (__main__.TestAfter.test_leap)
+after() works with leap year ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+test_leap_func (__main__.TestLeap.test_leap_func)
+leap_year function exists and returns True/False ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+test_leap_max (__main__.TestMonMax.test_leap_max)
+test mon_max with feb of leap/non-leap years ... ok
+test_mon_max (__main__.TestMonMax.test_mon_max)
+test the mon_max function ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mexit[27mexit
+[?2004lexit
+Script done.
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mls -lh assignment1_output.txt[27mls -lh assignment1_output.txt
+[?2004l-rw-rw-r-- 1 ssingh1488 ssingh1488 4.0K Jun  5 10:14 assignment1_output.txt
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-mint[00m:[01;34m~/ops445/a1/assignment1-vera-m1-ssingh1488[00m$ [7mcat assignment1_output.txt[27mcat assignment1_output.txt
+[?2004lScript started on 2026-06-05 10:14:09-04:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="124" LINES="49"]
+[?2004h]0;ssingh1488@ssingh1488-linux-mint: ~/ops445/a1/assignment1-vera-m1-ssingh1488[01;32mssingh1488@ssingh1488-linux-min
