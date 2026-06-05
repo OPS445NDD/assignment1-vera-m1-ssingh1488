@@ -4,14 +4,8 @@ test_dtypes (__main__.TestAfter.test_dtypes)
 after() is returning string ... ok
 test_leap (__main__.TestAfter.test_leap)
 after() works with leap year ... ok
-test_leap_func (__main__.TestLeap.test_leap_func)
-leap_year function exists and returns True/False ... ok
-test_leap_max (__main__.TestMonMax.test_leap_max)
-test mon_max with feb of leap/non-leap years ... ok
-test_mon_max (__main__.TestMonMax.test_mon_max)
-test the mon_max function ... ok
 
 ----------------------------------------------------------------------
-Ran 6 tests in 0.000s
+Ran 3 tests in 0.000s
 
 OK
